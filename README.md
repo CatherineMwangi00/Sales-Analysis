@@ -170,31 +170,10 @@ plt.show()
 
 ---
 
-## **Project Files**
-1. **Data File:** [sales_data.csv](./sales_data.csv)
-2. **Jupyter Notebook:** [sales_analysis.ipynb](./sales_analysis.ipynb)
-3. **Visuals:** Saved plots as `.png` images in the `/visuals` folder.
-
----
-
-## **Conclusion**
-This sales analysis project demonstrates practical skills in data cleaning, exploratory analysis, and visualization. It highlights the ability to draw actionable insights from data, making it relevant for employers seeking data analysts.
-
-
----
-
-Feel free to explore the attached files and codebase for a deeper dive into the analysis process.
-
-**Recommendations:**
-1. Launch targeted marketing campaigns during high-sales months.
-2. Increase stock levels and advertising for top-performing products.
-3. Explore strategies to boost sales in underperforming regions.
-
----
 
 ## **Project Files**
 1. **Data File:** [sales_data.csv](https://www.kaggle.com/datasets/catherinemwangi00001/sample-sales-data)
-2. **Jupyter Notebook:** [sales_analysis.ipynb](./sales_analysis.ipynb)
+2. **Jupyter Notebook:** [sales_analysis.ipynb](/kaggle/input/sales-analysis-portfolio-project-1)
 3. **Visuals:** Saved plots as `.png` images in the `/visuals` folder.
 
 ---
