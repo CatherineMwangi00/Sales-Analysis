@@ -16,7 +16,7 @@ The primary goal is to analyze historical sales data to:
 
 ## **Dataset**
 - **Name:** Retail Sales Dataset
-- **Source:** [Kaggle's Sample Retail Dataset](https://www.kaggle.com/) or simulated data.
+- **Source:** [Kaggle's Sample Retail Dataset](https://www.kaggle.com/datasets/catherinemwangi00001/sample-sales-data).
 - **Contents:**
   - `Order ID`: Unique identifier for each order
   - `Product`: Product name
